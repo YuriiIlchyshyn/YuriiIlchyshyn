@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Phyton, C#, HTML.
+- 🌱 I’m currently learning Python, C#, HTML.
 - 👯 I’m looking to collaborate on YaroslavChelentano
 - 🤔 I’m looking for help with Java Script code.
 - 💬 Ask me about new projects.
